@@ -10,7 +10,6 @@ class Header extends Component {
             <div className="row">
               <div className="col">
                 <h1>To Do List</h1>
-                <h2></h2>
               </div>
             </div>
           </div>

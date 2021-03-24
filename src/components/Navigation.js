@@ -1,7 +1,7 @@
 import React from "react";
 import { Nav, Navbar, NavItem, NavLink, Button } from "reactstrap";
 
-function Directory(props) {
+function Navigation(props) {
   return (
     <React.Fragment>
       <Navbar dark sticky="top" expand="md">
@@ -39,4 +39,4 @@ function Directory(props) {
   );
 }
 
-export default Directory;
+export default Navigation;

@@ -1,8 +1,9 @@
 import React from "react";
+
 function Footer(props) {
   return (
-    <footer clasName="site-footer">
-      <div className="container-fluid" style={{ border: "1px solid black" }}>
+    <footer className="footer">
+      <div className="container-fluid">
         <div className="row">
           <div className="col-4">
             <div className="row">

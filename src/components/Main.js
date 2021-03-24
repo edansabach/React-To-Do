@@ -1,14 +1,16 @@
 import React, { Component } from "react";
 import Footer from "./Footer";
 import Header from "./Header";
-import Directory from "./Navbar";
+import Navigation from "./Navigation";
+import Tool from "./Tool";
 
 class Main extends Component {
   render() {
     return (
       <>
-        <Directory />
+        <Navigation />
         <Header />
+        <Tool />
         <Footer />
       </>
     );

@@ -1,0 +1,11 @@
+.jumbotron {
+  margin: 0;
+  padding: 25px;
+  background-image: linear-gradient(to right, #f5f5f5, #c94141, #c92e2e);
+  color: red;
+  border-radius: 0;
+}
+
+.navbar-dark {
+  background-color: #c92e2e;
+}
